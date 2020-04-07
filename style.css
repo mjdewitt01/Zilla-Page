@@ -28,3 +28,27 @@ body {
   background-color: #0B9B5B;
   color: white;
 }
+a {
+ text-decoration: none;
+ display: inline-block;
+ padding: 8px 16px;
+}
+
+a:hover {
+ background-color: white;
+ color: #031124;
+}
+
+.previous {
+ background-color:black ;
+ color: #0B9B5B;
+ float: left;
+ font-size: 36px;
+}
+
+.next {
+ float: right;
+ background-color: black;
+ color:  #0B9B5B;
+ font-size: 36px;
+}
